@@ -1,0 +1,708 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d1b06ab3-7ec3-4adc-9516-c96a3522d17b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/build.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/clean" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/defaults.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/lib/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/lib/check_reqs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/lib/clean.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/adm-zip/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/adm-zip/adm-zip.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/adm-zip/headers/entryHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/adm-zip/headers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/adm-zip/headers/mainHeader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/adm-zip/methods/deflater.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/adm-zip/methods/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/adm-zip/methods/inflater.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/adm-zip/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/adm-zip/util/constants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/adm-zip/util/errors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/adm-zip/util/fattr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/adm-zip/util/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/adm-zip/util/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/adm-zip/zipEntry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/adm-zip/zipFile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/RELEASENOTES.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/node_modules/color-convert/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/node_modules/color-convert/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/node_modules/color-convert/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/node_modules/color-convert/conversions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/node_modules/color-convert/css-keywords.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/node_modules/color-convert/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/node_modules/color-convert/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/node_modules/color-convert/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/ansi-styles/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/escape-string-regexp/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/escape-string-regexp/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/escape-string-regexp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/escape-string-regexp/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/has-ansi/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/has-ansi/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/has-ansi/node_modules/ansi-regex/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/has-ansi/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/has-ansi/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/strip-ansi/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/strip-ansi/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/strip-ansi/node_modules/ansi-regex/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/strip-ansi/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/strip-ansi/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/supports-color/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/supports-color/license" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/supports-color/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/node_modules/supports-color/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/chalk/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/mime-types/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/negotiator/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/negotiator/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/negotiator/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/negotiator/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/negotiator/lib/charset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/negotiator/lib/encoding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/negotiator/lib/language.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/negotiator/lib/mediaType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/node_modules/negotiator/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/accepts/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/bytes/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/bytes/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/bytes/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/bytes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/bytes/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/node_modules/ms/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/node_modules/ms/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/node_modules/ms/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/node_modules/ms/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/node_modules/ms/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/node_modules/ms/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/debug/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/vary/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/vary/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/vary/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/vary/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/node_modules/vary/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/compression/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/lib/application.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/lib/express.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/lib/middleware/init.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/lib/middleware/query.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/lib/request.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/lib/response.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/lib/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/lib/router/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/lib/router/route.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/lib/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/lib/view.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/node_modules/mime-db/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/mime-types/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/negotiator/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/negotiator/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/negotiator/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/negotiator/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/charset.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/encoding.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/language.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/negotiator/lib/mediaType.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/node_modules/negotiator/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/accepts/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/array-flatten/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/array-flatten/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/array-flatten/array-flatten.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/array-flatten/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-disposition/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-disposition/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-disposition/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-disposition/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-disposition/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-type/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-type/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-type/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-type/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/content-type/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie-signature/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie-signature/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie-signature/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie-signature/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie-signature/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/cookie/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/.jshintrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/component.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/debug.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/node.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/node_modules/ms/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/node_modules/ms/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/node_modules/ms/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/node_modules/ms/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/node_modules/ms/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/node_modules/ms/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/debug/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/lib/browser/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/lib/compat/buffer-concat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/lib/compat/callsite-tostring.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/lib/compat/event-listener-count.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/lib/compat/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/depd/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/escape-html/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/escape-html/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/escape-html/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/escape-html/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/etag/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/etag/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/etag/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/etag/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/etag/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/node_modules/unpipe/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/node_modules/unpipe/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/node_modules/unpipe/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/node_modules/unpipe/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/node_modules/unpipe/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/finalhandler/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/fresh/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/fresh/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/fresh/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/fresh/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/fresh/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/merge-descriptors/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/merge-descriptors/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/merge-descriptors/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/merge-descriptors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/merge-descriptors/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/methods/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/methods/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/methods/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/methods/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/methods/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/node_modules/ee-first/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/node_modules/ee-first/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/node_modules/ee-first/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/node_modules/ee-first/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/on-finished/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/parseurl/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/parseurl/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/parseurl/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/parseurl/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/parseurl/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/path-to-regexp/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/path-to-regexp/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/path-to-regexp/Readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/path-to-regexp/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/path-to-regexp/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/forwarded/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/Cakefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/ipaddr.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/lib/ipaddr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/src/ipaddr.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/node_modules/ipaddr.js/test/ipaddr.test.coffee" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/proxy-addr/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/bower.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/lib/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/lib/parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/lib/stringify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/lib/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/test/parse.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/test/stringify.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/qs/test/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/range-parser/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/range-parser/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/range-parser/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/range-parser/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/range-parser/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/destroy/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/destroy/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/destroy/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/destroy/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/node_modules/inherits/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/node_modules/inherits/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/node_modules/inherits/inherits.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/node_modules/inherits/inherits_browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/node_modules/inherits/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/node_modules/inherits/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/http-errors/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/mime/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/mime/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/mime/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/mime/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/mime/build/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/mime/cli.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/mime/mime.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/mime/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/mime/types.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/ms/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/ms/History.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/ms/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/ms/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/ms/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/ms/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/statuses/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/statuses/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/statuses/codes.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/statuses/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/node_modules/statuses/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/send/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/serve-static/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/serve-static/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/serve-static/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/serve-static/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/serve-static/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/media-typer/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/media-typer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/media-typer/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/media-typer/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/media-typer/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/node_modules/mime-db/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/node_modules/mime-types/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/type-is/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/utils-merge/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/utils-merge/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/utils-merge/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/utils-merge/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/utils-merge/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/vary/HISTORY.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/vary/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/vary/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/vary/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/node_modules/vary/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/node_modules/express/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/serve.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/src/browser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/src/exec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/src/platform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/src/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/cordova-serve/src/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/bin/nopt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/examples/my-program.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/lib/nopt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/node_modules/abbrev/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/node_modules/abbrev/.travis.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/node_modules/abbrev/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/node_modules/abbrev/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/node_modules/abbrev/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/node_modules/abbrev/abbrev.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/node_modules/abbrev/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/node_modules/abbrev/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/nopt/test/basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/q/CHANGES.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/q/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/q/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/q/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/q/q.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/q/queue.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/.idea/libraries/shelljs_node_modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/.idea/shelljs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/.npmignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/MAINTAINERS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/bin/shjs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/build/output.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/global.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/make.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/scripts/generate-docs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/scripts/run-tests.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/shell.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/cat.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/cd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/chmod.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/cp.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/dirs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/echo.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/error.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/exec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/find.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/grep.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/ln.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/ls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/mkdir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/mv.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/popd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/pushd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/pwd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/rm.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/sed.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/set.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/tempdir.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/test.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/to.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/toEnd.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/touch.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/node_modules/shelljs/src/which.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/run.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/version" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/cordova/version.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/cordova-js-src/confighelper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/cordova-js-src/exec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/cordova-js-src/platform.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-battery-status/src/browser/BatteryProxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-battery-status/www/battery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-camera/src/browser/CameraProxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-camera/www/Camera.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-camera/www/CameraConstants.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-camera/www/CameraPopoverOptions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-device/src/browser/DeviceProxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-device/www/device.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-dialogs/www/browser/notification.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-dialogs/www/notification.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/src/browser/FileProxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/DirectoryEntry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/DirectoryReader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/Entry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/File.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/FileEntry.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/FileError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/FileReader.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/FileSystem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/FileUploadOptions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/FileUploadResult.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/FileWriter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/Flags.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/LocalFileSystem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/Metadata.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/ProgressEvent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/browser/FileSystem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/browser/Preparing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/browser/isChrome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/fileSystemPaths.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/fileSystems.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/requestFileSystem.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-file/www/resolveLocalFileSystemURI.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-globalization/src/browser/GlobalizationProxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-globalization/www/GlobalizationError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-globalization/www/browser/moment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-globalization/www/globalization.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-inappbrowser/src/browser/InAppBrowserProxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-inappbrowser/www/inappbrowser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-media-capture/src/browser/CaptureProxy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-media-capture/www/CaptureAudioOptions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-media-capture/www/CaptureError.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-media-capture/www/CaptureImageOptions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-media-capture/www/CaptureVideoOptions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-media-capture/www/MediaFile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-media-capture/www/MediaFileData.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-media-capture/www/capture.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-media-capture/www/helpers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-network-information/src/browser/network.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-network-information/www/Connection.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-network-information/www/network.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-vibration/src/browser/Vibration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/plugins/cordova-plugin-vibration/www/vibration.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/res/screen/android/drawable-land-hdpi-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/res/screen/android/drawable-land-ldpi-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/res/screen/android/drawable-land-xxhdpi-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/res/screen/android/drawable-port-hdpi-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/res/screen/android/drawable-port-xhdpi-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/res/screen/android/drawable-port-xxhdpi-screen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/res/screen/windows/SplashScreen.scale-100.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/res/screen/windows/SplashScreenPhone.scale-240.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/spec/helper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/spec/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/spec/lib/jasmine-1.2.0/MIT.LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/spec/lib/jasmine-1.2.0/jasmine-html.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/spec/lib/jasmine-1.2.0/jasmine.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/platforms/browser/www/spec/lib/jasmine-1.2.0/jasmine.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/www/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-64">
+              <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/www/css/index.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1700">
+              <caret line="100" column="28" selection-start-line="100" selection-start-column="28" selection-end-line="100" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/www/css/index.css" />
+        <option value="$PROJECT_DIR$/www/index.html" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="30" />
+    <option name="y" value="-30" />
+    <option name="width" value="1245" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ValutaCalc" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ValutaCalc" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../.." />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d1b06ab3-7ec3-4adc-9516-c96a3522d17b" name="Default Changelist" comment="" />
+      <created>1551431250166</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1551431250166</updated>
+      <workItem from="1551431251576" duration="2630000" />
+      <workItem from="1551436714005" duration="432000" />
+      <workItem from="1551437262903" duration="3029000" />
+      <workItem from="1553512562427" duration="1785000" />
+      <workItem from="1554214194805" duration="236000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="8112000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24983476" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.49966952" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50033045" side_tool="true" weight="0.3286119" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Base app has been added" />
+    <option name="LAST_COMMIT_MESSAGE" value="Base app has been added" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/www/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-64">
+          <caret line="82" column="26" selection-start-line="82" selection-start-column="26" selection-end-line="82" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/www/css/index.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1700">
+          <caret line="100" column="28" selection-start-line="100" selection-start-column="28" selection-end-line="100" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

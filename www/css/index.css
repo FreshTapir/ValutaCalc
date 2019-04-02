@@ -1,0 +1,106 @@
+/*
+ * Licensed to the Apache Software Foundation (ASF) under one
+ * or more contributor license agreements.  See the NOTICE file
+ * distributed with this work for additional information
+ * regarding copyright ownership.  The ASF licenses this file
+ * to you under the Apache License, Version 2.0 (the
+ * "License"); you may not use this file except in compliance
+ * with the License.  You may obtain a copy of the License at
+ *
+ * http://www.apache.org/licenses/LICENSE-2.0
+ *
+ * Unless required by applicable law or agreed to in writing,
+ * software distributed under the License is distributed on an
+ * "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY
+ * KIND, either express or implied.  See the License for the
+ * specific language governing permissions and limitations
+ * under the License.
+ */
+* {
+    -webkit-tap-highlight-color: rgba(0,0,0,0); /* make transparent link selection, adjust last value opacity 0 to 1.0 */
+}
+
+body {
+    background-color: whitesmoke;
+    background-attachment:fixed;
+    font-family:'HelveticaNeue-Light', 'HelveticaNeue', Helvetica, Arial, sans-serif;
+    font-size:12px;
+    height:100%;
+    margin:0px;
+    padding:0px;
+    text-transform:uppercase;
+    width:100%;
+}
+
+h1 {
+    font-size:24px;
+    font-weight:normal;
+    margin-top:50px;
+    overflow:visible;
+    padding:0px;
+    text-align:center;
+    border-bottom: 2px darkgrey solid;
+}
+main{
+    display: flex;
+    justify-content: space-around;
+}
+#head{
+    margin: 50px 0 50px 0;
+}
+.frame{
+    margin: 0 auto;
+}
+.valuta{
+border-bottom: 2px darkgrey solid;
+}
+.flag{
+    width: 100px;
+    height: 50%;
+
+}
+#flagUSD{
+    background-image: url("../img/us.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#flagEUR{
+    background-image: url("../img/eu.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+#flagPOU{
+    background-image: url("../img/uk.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+.valh2{
+    width: 100px;
+    display: block;
+    text-align: center;
+}
+
+.val-wrap{
+    display: flex;
+    align-items: center;
+    padding-left: 1vw;
+}
+.val-value{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: right;
+    padding-right: 1vw;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    height: 100px;
+}
+input {
+    background: transparent;
+    border-top: transparent;
+    border-left: transparent;
+    border-right: transparent;
+    border-bottom: 1px darkgrey solid;
+}
